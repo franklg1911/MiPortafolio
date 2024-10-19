@@ -8,7 +8,7 @@ Estos proyectos sencillos son parte de mi aprendizaje continuo en el desarollo w
 - [Tecnologías](#tecnologías)
 
 ### Proyectos
-   1. **Landing Pages**: Páginas básicas creadas con **HTML5** y **CSS3** enfocadas en la captación de los clientes, promoción de productos o servicios. Diseñadas para ser visualmente atractivas, rápidas y fáciles de navegar, con el objetivo de guiar al usuario hacia una acción específica, como llenar un formulario, realizar una compra o suscribirse a un boletín.
+   1. **LandingPages**: Páginas básicas creadas con **HTML5** y **CSS3** enfocadas en la captación de los clientes, promoción de productos o servicios. Diseñadas para ser visualmente atractivas, rápidas y fáciles de navegar, con el objetivo de guiar al usuario hacia una acción específica, como llenar un formulario, realizar una compra o suscribirse a un boletín.
   
 ### Tecnologías
 A continuación se muestra una lista de tecnologías utilizadas para la creación de los proyectos:
